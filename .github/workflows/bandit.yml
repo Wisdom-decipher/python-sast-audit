@@ -1,4 +1,4 @@
-ame: Bandit SAST Security Scan
+name: Bandit SAST Security Scan
 
 on:
   push:
