@@ -1,5 +1,7 @@
 # Python Flask SAST Audit & Secure Coding Remediation
 
+[![Bandit SAST Security Scan](https://github.com/Wisdom-decipher/python-sast-audit/actions/workflows/bandit.yml/badge.svg)](https://github.com/Wisdom-decipher/python-sast-audit/actions/workflows/bandit.yml)
+
 A static application security testing (SAST) and code review project analyzing a Python Flask authentication service using **Bandit** and manual code inspection against OWASP Top 10 vulnerabilities.
 
 ---
